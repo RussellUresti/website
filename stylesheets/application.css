@@ -193,7 +193,7 @@
       font-size: 1.5rem; } }
 @media only screen and (-webkit-min-device-pixel-ratio : 1.5), only screen and (min-device-pixel-ratio : 1.5) {
   #branding a {
-    background-image: url(".../images/retina/logo.png"); } }
+    background-image: url("../images/retina/logo.png"); } }
 /* normalize.css 2012-03-11T12:53 UTC - http://github.com/necolas/normalize.css */
 /* =============================================================================
    HTML5 display definitions
@@ -703,7 +703,7 @@ p {
   color: transparent;
   width: 65px;
   height: 66px;
-  background: transparent url(".../images/retina/logo.png") no-repeat 0 0;
+  background: transparent url("../images/retina/logo.png") no-repeat 0 0;
   border-bottom: 0 none;
   -webkit-background-size: contain;
   -moz-background-size: contain;
@@ -809,13 +809,13 @@ p {
       font-size: 1.5rem; } }
 @media only screen and (-webkit-min-device-pixel-ratio : 1.5), only screen and (min-device-pixel-ratio : 1.5) {
   #branding a {
-    background-image: url(".../images/retina/logo.png"); } }
+    background-image: url("../images/retina/logo.png"); } }
 /* 1024 */
 @media only screen and (min-width: 64em) {
   /*#accessibility {
     position: relative;
     &:after {
-      background: url('.../images/mobile/accessibility.png') no-repeat left center;
+      background: url('../images/mobile/accessibility.png') no-repeat left center;
       height: 200px;
       width: 200px;
       position: absolute;
@@ -835,61 +835,61 @@ p {
     }
   }*/ }
 #client_Teladoc {
-  background-image: url(".../images/clients/teladoc.jpg"); }
+  background-image: url("../images/clients/teladoc.jpg"); }
 
 #client_ZoomRank {
-  background-image: url(".../images/clients/zoomrank.jpg"); }
+  background-image: url("../images/clients/zoomrank.jpg"); }
 
 #client_Birken {
-  background-image: url(".../images/clients/birken.jpg"); }
+  background-image: url("../images/clients/birken.jpg"); }
 
 #client_Centurion {
-  background-image: url(".../images/clients/centurion.jpg"); }
+  background-image: url("../images/clients/centurion.jpg"); }
 
 #client_LessWatts {
-  background-image: url(".../images/clients/lesswatts.jpg"); }
+  background-image: url("../images/clients/lesswatts.jpg"); }
 
 #client_Morgan {
-  background-image: url(".../images/clients/morgan.jpg"); }
+  background-image: url("../images/clients/morgan.jpg"); }
 
 #client_PattiShannon {
-  background-image: url(".../images/clients/patti.jpg"); }
+  background-image: url("../images/clients/patti.jpg"); }
 
 #client_Rivela {
-  background-image: url(".../images/clients/rivela.jpg"); }
+  background-image: url("../images/clients/rivela.jpg"); }
 
 #client_WoodlandsMoving {
-  background-image: url(".../images/clients/woodlands.jpg"); }
+  background-image: url("../images/clients/woodlands.jpg"); }
 
 #client_FKM {
-  background-image: url(".../images/clients/fkm.jpg"); }
+  background-image: url("../images/clients/fkm.jpg"); }
 
 #client_Phillips {
-  background-image: url(".../images/clients/phillips66.jpg"); }
+  background-image: url("../images/clients/phillips66.jpg"); }
 
 #client_WM {
-  background-image: url(".../images/clients/wm.jpg"); }
+  background-image: url("../images/clients/wm.jpg"); }
 
 #client_Vision {
-  background-image: url(".../images/clients/vision.jpg"); }
+  background-image: url("../images/clients/vision.jpg"); }
 
 #client_WomansHospital {
-  background-image: url(".../images/clients/womanshospital.jpg"); }
+  background-image: url("../images/clients/womanshospital.jpg"); }
 
 #client_3M {
-  background-image: url(".../images/clients/3m.jpg"); }
+  background-image: url("../images/clients/3m.jpg"); }
 
 #client_AMEX {
-  background-image: url(".../images/clients/amex.jpg"); }
+  background-image: url("../images/clients/amex.jpg"); }
 
 #client_DQ {
-  background-image: url(".../images/clients/dq.jpg"); }
+  background-image: url("../images/clients/dq.jpg"); }
 
 #client_Optum {
-  background-image: url(".../images/clients/optum.jpg"); }
+  background-image: url("../images/clients/optum.jpg"); }
 
 #client_USBank {
-  background-image: url(".../images/clients/usbank.jpg"); }
+  background-image: url("../images/clients/usbank.jpg"); }
 
 .client-list {
   background: #fff;
@@ -973,7 +973,7 @@ p {
   -ms-border-radius: 8px 0 0 8px;
   -o-border-radius: 8px 0 0 8px;
   border-radius: 8px 0 0 8px;
-  background: url(".../images/retina/next.png") no-repeat 80% center;
+  background: url("../images/retina/next.png") no-repeat 80% center;
   -webkit-transform-origin: 100% 50%;
   -moz-transform-origin: 100% 50%;
   -ms-transform-origin: 100% 50%;
@@ -988,7 +988,7 @@ p {
   -ms-border-radius: 0 8px 8px 0;
   -o-border-radius: 0 8px 8px 0;
   border-radius: 0 8px 8px 0;
-  background: url(".../images/retina/prev.png") no-repeat 20% center;
+  background: url("../images/retina/prev.png") no-repeat 20% center;
   -webkit-transform-origin: 0% 50%;
   -moz-transform-origin: 0% 50%;
   -ms-transform-origin: 0% 50%;
@@ -1034,10 +1034,10 @@ html {
   min-height: 100%; }
 
 body {
-  background: white url(".../images/textured_background_tile.jpg") repeat 0 0; }
+  background: white url("../images/textured_background_tile.jpg") repeat 0 0; }
   body.debug {
     background-color: transparent, #fff;
-    background-image: url(".../images/vr-bg.png"), url(".../images/textured_background_tile.jpg");
+    background-image: url("../images/vr-bg.png"), url("../images/textured_background_tile.jpg");
     background-repeat: repeat, repeat;
     background-position: 0 0, 0 0; }
 
