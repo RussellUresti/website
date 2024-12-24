@@ -1,0 +1,43 @@
+.lt-ie9 .section {
+  width: 672px;
+  margin: 0 auto; }
+.lt-ie9 #branding a {
+  width: 117px;
+  height: 118px;
+  margin-left: -58.5px;
+  top: 25px;
+  background-image: url("/images/desktop/logo.png"); }
+.lt-ie9 #nav {
+  margin-bottom: 120px; }
+  .lt-ie9 #nav ul {
+    padding: 1.25em 0; }
+  .lt-ie9 #nav li {
+    font-size: 24px;
+    font-size: 1.5rem; }
+  .lt-ie9 #nav:after {
+    border-top: 1px solid #ccc;
+    border-bottom: 1px solid #ccc; }
+.lt-ie9 #next, .lt-ie9 #prev {
+  border: 1px solid #ccc;
+  width: 300px; }
+.lt-ie9 #next {
+  border-right: 0 none; }
+.lt-ie9 #prev {
+  border-left: 0 none; }
+.lt-ie9 .client-list {
+  border: 1px solid #ccc; }
+
+.lt-ie8 .client-list {
+  *zoom: 1; }
+
+.lt-ie7 .client-list li {
+  float: none;
+  display: block;
+  margin: 0 auto;
+  text-align: center;
+  background-position: center center;
+  font-size: 0;
+  line-height: 0;
+  color: #fff; }
+.lt-ie7 #nav .clients {
+  margin-left: 130px; }
